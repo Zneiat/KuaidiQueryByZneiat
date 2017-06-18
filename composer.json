@@ -1,0 +1,6 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "^6.2",
+    "swiftmailer/swiftmailer": "^6.0"
+  }
+}
